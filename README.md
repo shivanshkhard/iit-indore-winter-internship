@@ -1,6 +1,5 @@
 # iit-indore-winter-internship
-project on computer vision image to image translation using advance GANs
-Frequency-Aware Semantic Consistency for Unpaired Image-to-Image Translation
+**Frequency-Aware Semantic Consistency for Unpaired Image-to-Image Translation**
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red.svg)
 ![CUDA](https://img.shields.io/badge/CUDA-Enabled-green.svg)
