@@ -1,0 +1,18 @@
+torch>=2.0
+torchvision>=0.15
+numpy
+Pillow
+tqdm
+opencv-python
+
+# CLIP
+ftfy
+regex
+git+https://github.com/openai/CLIP.git
+
+# ViT / DINO
+timm
+
+# Utilities
+matplotlib
+scikit-image
